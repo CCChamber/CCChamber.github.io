@@ -1,0 +1,4 @@
+baseURL = 'https://ccchamber.github.io/test/'
+languageCode = 'de-de'
+title = 'Colins Resume'
+theme = 'hugo-resume'
