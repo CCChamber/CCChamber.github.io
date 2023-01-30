@@ -1,15 +1,12 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"[Berufsbildende Schulen Haarentor]",
+        "degree":"Berufliches Gymnasium Wirtschaft",
+        "range":"08/2016 - 01/2017"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Berufsbildende Schulen Haarentor",
+        "degree":"Einjährige Berufsfachschule Informatik",
+        "range":"09/2015 - 01/2017"
     }
 ]
