@@ -2,3 +2,19 @@ baseURL = 'https://ccchamber.github.io/CCChamber.github.io/'
 languageCode = 'de-de'
 title = 'Colins Resume'
 theme = 'hugo-resume'
+
+[params]
+address = "Oldenburg, DE"
+email = "colin.kammer@yahoo.de"
+favicon = "/favicon.ico"
+firstName = "Colin"
+lastName = "Kammer"
+phone = "01520 1465711"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
