@@ -8,7 +8,7 @@ und nun ein genaueres Bild davon habe, bewerbe ich mich hiermit
 auf die Ausbildungsstelle als Fachinformatiker für
 Anwendungsentwicklung.  
 Ich bin zuversichtlich, dass ich schon in der Ausbildung zu den
-Aufgaben im Team beitragen werde.
+Aufgaben im Team beitragen werde.  
 Bei meinem Besuch der Berufsbildenden Schulen Haarentor, der
 Einjährigen Berufsfachschule mit dem Schwerpunkt Informatik,
 konnte ich bereits Erfahrungen in der Anwendungsentwicklung und
